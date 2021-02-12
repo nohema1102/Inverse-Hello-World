@@ -19,6 +19,7 @@ namespace Inverse_Hello_World
        {
            Console.WriteLine (hello[i]);
        }
+       // profe ayuda no sé si me salió bien :C
         }
     }
 }
